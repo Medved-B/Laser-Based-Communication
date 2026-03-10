@@ -15,7 +15,7 @@ Required materials:
 1x 10K ohm resistors
 1x 10K potentiometer
 3x Jumper cables
-11x Connecting cables
+14x Connecting cables
 
 
 
