@@ -1,6 +1,8 @@
 # Laser-Based-Communication
 
-This is Tex Bir's laser based communication project
+This is Tex Bir's laser based communication project for CSE 222
+
+LinkedIn: www.linkedin.com/in/sam-bir
 
 Required materials:
 2x Arduino R3 UNO Board
